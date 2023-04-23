@@ -1,0 +1,67 @@
+{
+    "1682260402712621:24232": {
+        "IFileManager": {
+            "path": "Files/File_1682260402712621_24232.jpg"
+        }
+    },
+    "1682260402716811:24233": {
+        "IResourceController": {
+            "name": "frame_params_glossy",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402717037:24234",
+            "fileId": "1682260402712621:24232",
+            "originalId": "1682260402717545:24239",
+            "publicId": "1682260402759950:24248",
+            "expected_hash": "44d0b8152ed688c00a66bb60de9edfa4",
+            "additional": {
+                "originHash": "1f253fed704c08edb7aa15d4fd3e5560",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402717037:24234",
+            "name": "Files/File_1682260402712621_24232.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402717037:24234": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "2576",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "2576",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402739447:24247"
+        }
+    },
+    "1682260402717545:24239": {
+        "IFileManager": {
+            "path": "Files/File_1682260402717545_24239.jpg"
+        }
+    },
+    "1682260402739447:24247": {
+        "IFileManager": {
+            "path": "Files/File_1682260402739447_24247.jpg"
+        }
+    },
+    "1682260402759950:24248": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/frame_params_glossy.jpg",
+                "hash": "44d0b8152ed688c00a66bb60de9edfa4"
+            }
+        }
+    }
+}

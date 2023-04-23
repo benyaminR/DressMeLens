@@ -1,0 +1,73 @@
+{
+    "1682260402614352:24209": {
+        "IFileManager": {
+            "path": "Files/File_1682260402614352_24209.jpg"
+        }
+    },
+    "1682260402618747:24210": {
+        "IResourceController": {
+            "name": "nerd_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402618974:24211",
+            "fileId": "1682260402614352:24209",
+            "originalId": "1682260402619475:24216",
+            "publicId": "1682260402663665:24225",
+            "expected_hash": "b72071ac0833bdddf3e44fb186d0c400",
+            "additional": {
+                "originHash": "b72071ac0833bdddf3e44fb186d0c400",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402618974:24211",
+            "name": "Files/File_1682260402614352_24209.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402618974:24211": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "43136",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "43136",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402641342:24224"
+        }
+    },
+    "1682260402619475:24216": {
+        "IFileManager": {
+            "path": "Files/File_1682260402619475_24216.jpg"
+        }
+    },
+    "1682260402641342:24224": {
+        "IFileManager": {
+            "path": "Files/File_1682260402641342_24224.jpg"
+        }
+    },
+    "1682260402663665:24225": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/nerd_normals.jpg",
+                "hash": "b72071ac0833bdddf3e44fb186d0c400"
+            }
+        }
+    }
+}

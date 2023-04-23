@@ -1,0 +1,22 @@
+{
+    "1682260404797129:24702": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682260404797305:24703",
+            "resources": [
+                "1682260404734636:24682"
+            ]
+        }
+    },
+    "1682260404797305:24703": {
+        "IResourceController": {
+            "public": {
+                "path": "Geometry/glass_square/meshes/Frame/Meshes"
+            }
+        }
+    }
+}

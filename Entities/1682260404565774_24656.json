@@ -1,0 +1,125 @@
+{
+    "1682260404558789:24655": {
+        "IFileManager": {
+            "path": "Files/File_1682260404558789_24655.mesh"
+        }
+    },
+    "1682260404565774:24656": {
+        "IResourceController": {
+            "name": "Occluder Mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260404607236:24660",
+            "fileId": "1682260404558789:24655",
+            "publicId": "1682260404638899:24674",
+            "expected_hash": "1ee3b04bde1071400dcab59b4f7859e0",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "bitangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260404607236:24660",
+            "name": "Files/File_1682260404558789_24655.mesh",
+            "flags": 1
+        }
+    },
+    "1682260404607236:24660": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "27076",
+                "compressedSize": "23361",
+                "extension": "mesh",
+                "originalRAM": "27076",
+                "originalSize": "23361",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "bitangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260404621348:24673"
+        }
+    },
+    "1682260404621348:24673": {
+        "IFileManager": {
+            "path": "Files/File_1682260404621348_24673.mesh"
+        }
+    },
+    "1682260404638899:24674": {
+        "IResourceController": {
+            "public": {
+                "path": "Geometry/Occluder Mesh.mesh",
+                "hash": "1ee3b04bde1071400dcab59b4f7859e0"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1682260403025232:24301": {
+        "IFileManager": {
+            "path": "Files/File_1682260403025232_24301.jpg"
+        }
+    },
+    "1682260403029503:24302": {
+        "IResourceController": {
+            "name": "cat_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260403029763:24303",
+            "fileId": "1682260403025232:24301",
+            "originalId": "1682260403030304:24308",
+            "publicId": "1682260403077199:24317",
+            "expected_hash": "553ad93727ee7e6b662c93d1da04a837",
+            "additional": {
+                "originHash": "553ad93727ee7e6b662c93d1da04a837",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260403029763:24303",
+            "name": "Files/File_1682260403025232_24301.jpg",
+            "flags": 1
+        }
+    },
+    "1682260403029763:24303": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "56516",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "56516",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260403052819:24316"
+        }
+    },
+    "1682260403030304:24308": {
+        "IFileManager": {
+            "path": "Files/File_1682260403030304_24308.jpg"
+        }
+    },
+    "1682260403052819:24316": {
+        "IFileManager": {
+            "path": "Files/File_1682260403052819_24316.jpg"
+        }
+    },
+    "1682260403077199:24317": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/cat_normals.jpg",
+                "hash": "553ad93727ee7e6b662c93d1da04a837"
+            }
+        }
+    }
+}

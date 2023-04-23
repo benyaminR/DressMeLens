@@ -32,7 +32,31 @@
 // @input SceneObject[] state2objects
 // @ui {"widget":"group_end"}
 
-const NUM_STATE_INPUTS = 3;
+
+// @ui {"widget":"group_start", "label":"State 3"}
+// @input string state3name
+// @input bool state3useTrigger = false {"label" : "Use Trigger"}
+// @input string state3Trigger {"showIf" : "state3useTrigger","label" : "Custom Trigger"}
+// @input SceneObject[] state3objects
+// @ui {"widget":"group_end"}
+
+
+// @ui {"widget":"group_start", "label":"State 4"}
+// @input string state4name
+// @input bool state4useTrigger = false {"label" : "Use Trigger"}
+// @input string state4Trigger {"showIf" : "state4useTrigger","label" : "Custom Trigger"}
+// @input SceneObject[] state4objects
+// @ui {"widget":"group_end"}
+
+
+// @ui {"widget":"group_start", "label":"State 5"}
+// @input string state5name
+// @input bool state5useTrigger = false {"label" : "Use Trigger"}
+// @input string state5Trigger {"showIf" : "state5useTrigger","label" : "Custom Trigger"}
+// @input SceneObject[] state5objects
+// @ui {"widget":"group_end"}
+
+const NUM_STATE_INPUTS = 6;
 
 if (!script.domain) {
     print("ERROR: domain must be set");
@@ -53,7 +77,7 @@ function setupStateObjectRelationship() {
         var objects = script["state" + i + "objects"];
         var useTrigger = script["state" + i + "useTrigger"];
         var triggerName = script["state" + i + "Trigger"];
-            
+        
         if (
             !name
             || !shoppingModuleValidator.domainStateExists(script.domain, name)        
@@ -117,7 +141,8 @@ function productStateChangeHandler(eventData) {
                 if (triggerName && global.behaviorSystem) {
                     global.behaviorSystem.sendCustomTrigger(triggerName);        
                 }
-                    
+                 
+
                 var sceneObjs = stateMap[selection.stateKey];
                 if (sceneObjs) {
                     showScene(sceneObjs);

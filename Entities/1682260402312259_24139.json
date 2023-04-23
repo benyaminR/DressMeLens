@@ -1,0 +1,67 @@
+{
+    "1682260402308336:24138": {
+        "IFileManager": {
+            "path": "Files/File_1682260402308336_24138.jpg"
+        }
+    },
+    "1682260402312259:24139": {
+        "IResourceController": {
+            "name": "frame_params_metal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402312744:24140",
+            "fileId": "1682260402308336:24138",
+            "originalId": "1682260402313297:24145",
+            "publicId": "1682260402359024:24156",
+            "expected_hash": "e5cecd4ef621ff7fe906010901474861",
+            "additional": {
+                "originHash": "e6d36e4c476bf6f0a74df4cad96a8ec8",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402312744:24140",
+            "name": "Files/File_1682260402308336_24138.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402312744:24140": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "2577",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "2577",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402336043:24155"
+        }
+    },
+    "1682260402313297:24145": {
+        "IFileManager": {
+            "path": "Files/File_1682260402313297_24145.jpg"
+        }
+    },
+    "1682260402336043:24155": {
+        "IFileManager": {
+            "path": "Files/File_1682260402336043_24155.jpg"
+        }
+    },
+    "1682260402359024:24156": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/frame_params_metal.jpg",
+                "hash": "e5cecd4ef621ff7fe906010901474861"
+            }
+        }
+    }
+}

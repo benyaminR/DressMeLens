@@ -1,0 +1,39 @@
+{
+    "1682260406433464:25205": {
+        "IFileManager": {
+            "path": "Files/File_1682260406433464_25205"
+        }
+    },
+    "1682260406436207:25206": {
+        "IResourceController": {
+            "name": "lens_material_custom",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260406436214:25207",
+            "fileId": "1682260406433464:25205",
+            "originalId": "1682260406499973:25213",
+            "publicId": "1682260406886119:25220",
+            "expected_hash": "b7dfd3b59ea9330b2e5f3389f5da7802"
+        },
+        "IResourceManager": {
+            "uid": "1682260406436214:25207",
+            "name": "Files/File_1682260406433464_25205",
+            "flags": 1
+        }
+    },
+    "1682260406499973:25213": {
+        "IFileManager": {
+            "path": "Files/File_1682260406499973_25213.lsmat"
+        }
+    },
+    "1682260406886119:25220": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/lens_material_custom.lsmat",
+                "hash": "571448cdae66b049baa7c12cb54098f1"
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1682260402410670:24163": {
+        "IFileManager": {
+            "path": "Files/File_1682260402410670_24163.jpg"
+        }
+    },
+    "1682260402414767:24164": {
+        "IResourceController": {
+            "name": "aviator_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402414992:24165",
+            "fileId": "1682260402410670:24163",
+            "originalId": "1682260402415486:24170",
+            "publicId": "1682260402461381:24179",
+            "expected_hash": "b9e47d8070fbe06b3357ee1f7bd44a13",
+            "additional": {
+                "originHash": "b9e47d8070fbe06b3357ee1f7bd44a13",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402414992:24165",
+            "name": "Files/File_1682260402410670_24163.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402414992:24165": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "47131",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "47131",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402438158:24178"
+        }
+    },
+    "1682260402415486:24170": {
+        "IFileManager": {
+            "path": "Files/File_1682260402415486_24170.jpg"
+        }
+    },
+    "1682260402438158:24178": {
+        "IFileManager": {
+            "path": "Files/File_1682260402438158_24178.jpg"
+        }
+    },
+    "1682260402461381:24179": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/aviator_normals.jpg",
+                "hash": "b9e47d8070fbe06b3357ee1f7bd44a13"
+            }
+        }
+    }
+}

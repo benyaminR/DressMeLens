@@ -1,0 +1,73 @@
+{
+    "1682260402923876:24278": {
+        "IFileManager": {
+            "path": "Files/File_1682260402923876_24278.jpg"
+        }
+    },
+    "1682260402927736:24279": {
+        "IResourceController": {
+            "name": "hearts_plastic_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402927953:24280",
+            "fileId": "1682260402923876:24278",
+            "originalId": "1682260402928453:24285",
+            "publicId": "1682260402974774:24294",
+            "expected_hash": "34d88823ad91e436c5eb41c394b049a1",
+            "additional": {
+                "originHash": "34d88823ad91e436c5eb41c394b049a1",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402927953:24280",
+            "name": "Files/File_1682260402923876_24278.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402927953:24280": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "90698",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "90698",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402949930:24291"
+        }
+    },
+    "1682260402928453:24285": {
+        "IFileManager": {
+            "path": "Files/File_1682260402928453_24285.jpg"
+        }
+    },
+    "1682260402949930:24291": {
+        "IFileManager": {
+            "path": "Files/File_1682260402949930_24291.jpg"
+        }
+    },
+    "1682260402974774:24294": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/hearts_plastic_normals.jpg",
+                "hash": "34d88823ad91e436c5eb41c394b049a1"
+            }
+        }
+    }
+}

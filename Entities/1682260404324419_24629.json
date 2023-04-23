@@ -1,0 +1,80 @@
+{
+    "1682260404300328:24626": {
+        "IFileManager": {
+            "path": "Files/File_1682260404300328_24626"
+        }
+    },
+    "1682260404324419:24629": {
+        "IResourceController": {
+            "name": "logo_image",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260404328837:24632",
+            "fileId": "1682260404300328:24626",
+            "originalId": "1682260404353006:24639",
+            "publicId": "1682260404475042:24648",
+            "expected_hash": "22618f7250471782dbb881757d786d70",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260404328837:24632",
+            "name": "Files/File_1682260404300328_24626",
+            "flags": 1
+        }
+    },
+    "1682260404328837:24632": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "566ed18a171c63eed55671e37aba5a69"
+                    },
+                    "v": "1682260446937909:42527"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "546816",
+                "compressedSize": "254619",
+                "extension": "t3d",
+                "originalRAM": "4374528",
+                "originalSize": "284560",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682260404438365:24647"
+        }
+    },
+    "1682260404353006:24639": {
+        "IFileManager": {
+            "path": "Files/File_1682260404353006_24639"
+        }
+    },
+    "1682260404438365:24647": {
+        "IFileManager": {
+            "path": "Files/File_1682260404438365_24647"
+        }
+    },
+    "1682260404475042:24648": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/logo_image",
+                "hash": "566ed18a171c63eed55671e37aba5a69",
+                "complexResourceHash": "b06b253906f9dbf0fa2993b571b5977b"
+            }
+        }
+    },
+    "1682260446937909:42527": {
+        "IFileManager": {
+            "path": "Files/File_1682260446937909_42527"
+        }
+    }
+}

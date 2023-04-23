@@ -17,7 +17,6 @@
             "publicId": "1682183517797639:539648",
             "expected_hash": "0ab1187ca732ed723d2e302f88f072f0",
             "additional": {
-                "originHash": "0ab1187ca732ed723d2e302f88f072f0",
                 "subtype": "9"
             }
         },
@@ -30,12 +29,6 @@
     "1682183517747501:539630": {
         "Compression::IController": {
             "compressed_files": "",
-            "desiredSettings": {
-                "isCompressed": "true",
-                "level": "3",
-                "subtype": "9",
-                "type": "0"
-            },
             "infos": {
                 "compressedRAM": "697303",
                 "compressedSize": "39423",

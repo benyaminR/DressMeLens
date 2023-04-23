@@ -14,7 +14,7 @@
             "uid": "1682183012899462:292324",
             "fileId": "1682183012894730:292322",
             "publicId": "1682183012911165:292334",
-            "expected_hash": "18e49a1c0abd947780e362c2c0fc983d"
+            "expected_hash": "7fc6fe065596320808ad3f58b5db58cb"
         },
         "IResourceManager": {
             "uid": "1682183012899462:292324",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/ShoppingController.js",
-                "hash": "18e49a1c0abd947780e362c2c0fc983d"
+                "hash": "7fc6fe065596320808ad3f58b5db58cb"
             }
         }
     }

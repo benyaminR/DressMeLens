@@ -1,0 +1,80 @@
+{
+    "1682260404086586:24580": {
+        "IFileManager": {
+            "path": "Files/File_1682260404086586_24580.pvr"
+        }
+    },
+    "1682260404090866:24581": {
+        "IResourceController": {
+            "name": "custom_reflection",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260404091103:24582",
+            "fileId": "1682260404086586:24580",
+            "originalId": "1682260404091608:24587",
+            "publicId": "1682260404141556:24596",
+            "expected_hash": "5e1f1d681d6ec0e162875fe837546ec2",
+            "additional": {
+                "originHash": "0b8898691bf6be120dc6cf5f4fb02707",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260404091103:24582",
+            "name": "Files/File_1682260404086586_24580.jpg",
+            "flags": 1
+        }
+    },
+    "1682260404091103:24582": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0b8898691bf6be120dc6cf5f4fb02707"
+                    },
+                    "v": "1682260428832570:37545"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "180800",
+                "compressedSize": "129214",
+                "extension": "png",
+                "originalRAM": "1440000",
+                "originalSize": "147779",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682260404115112:24595"
+        }
+    },
+    "1682260404091608:24587": {
+        "IFileManager": {
+            "path": "Files/File_1682260404091608_24587.png"
+        }
+    },
+    "1682260404115112:24595": {
+        "IFileManager": {
+            "path": "Files/File_1682260404115112_24595.png"
+        }
+    },
+    "1682260404141556:24596": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/LensReflectionParams/custom_reflection.png",
+                "hash": "0b8898691bf6be120dc6cf5f4fb02707"
+            }
+        }
+    },
+    "1682260428832570:37545": {
+        "IFileManager": {
+            "path": "Files/File_1682260428832570_37545.pvr"
+        }
+    }
+}

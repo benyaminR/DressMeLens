@@ -1,0 +1,73 @@
+{
+    "1682260402511440:24186": {
+        "IFileManager": {
+            "path": "Files/File_1682260402511440_24186.jpg"
+        }
+    },
+    "1682260402515915:24187": {
+        "IResourceController": {
+            "name": "round_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402516130:24188",
+            "fileId": "1682260402511440:24186",
+            "originalId": "1682260402516647:24193",
+            "publicId": "1682260402559806:24202",
+            "expected_hash": "687b3eacf38e28bb88be08bbdf96132b",
+            "additional": {
+                "originHash": "687b3eacf38e28bb88be08bbdf96132b",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402516130:24188",
+            "name": "Files/File_1682260402511440_24186.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402516130:24188": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "44740",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "44740",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402538250:24201"
+        }
+    },
+    "1682260402516647:24193": {
+        "IFileManager": {
+            "path": "Files/File_1682260402516647_24193.jpg"
+        }
+    },
+    "1682260402538250:24201": {
+        "IFileManager": {
+            "path": "Files/File_1682260402538250_24201.jpg"
+        }
+    },
+    "1682260402559806:24202": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/round_normals.jpg",
+                "hash": "687b3eacf38e28bb88be08bbdf96132b"
+            }
+        }
+    }
+}

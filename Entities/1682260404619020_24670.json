@@ -1,0 +1,23 @@
+{
+    "1682260404619020:24670": {
+        "IResourceController": {
+            "name": "Geometry",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682260404619310:24671",
+            "resources": [
+                "1682260404565774:24656",
+                "1682260404793189:24696"
+            ]
+        }
+    },
+    "1682260404619310:24671": {
+        "IResourceController": {
+            "public": {
+                "path": "Geometry"
+            }
+        }
+    }
+}

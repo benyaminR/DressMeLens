@@ -30,12 +30,6 @@
     "1682183513251212:539202": {
         "Compression::IController": {
             "compressed_files": "",
-            "desiredSettings": {
-                "isCompressed": "true",
-                "level": "3",
-                "subtype": "9",
-                "type": "0"
-            },
             "infos": {
                 "compressedRAM": "262144",
                 "compressedSize": "23226",

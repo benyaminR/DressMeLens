@@ -1,0 +1,67 @@
+{
+    "1682260402814515:24255": {
+        "IFileManager": {
+            "path": "Files/File_1682260402814515_24255.jpg"
+        }
+    },
+    "1682260402818314:24256": {
+        "IResourceController": {
+            "name": "frame_params_matte",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682260402818526:24257",
+            "fileId": "1682260402814515:24255",
+            "originalId": "1682260402819002:24262",
+            "publicId": "1682260402862120:24271",
+            "expected_hash": "acc8bf82aaaf7e9c1d1ad29e3778af3d",
+            "additional": {
+                "originHash": "92f5d62ff5783620efa03e4d29bad2b6",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682260402818526:24257",
+            "name": "Files/File_1682260402814515_24255.jpg",
+            "flags": 1
+        }
+    },
+    "1682260402818526:24257": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "2561",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "2561",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682260402840842:24270"
+        }
+    },
+    "1682260402819002:24262": {
+        "IFileManager": {
+            "path": "Files/File_1682260402819002_24262.jpg"
+        }
+    },
+    "1682260402840842:24270": {
+        "IFileManager": {
+            "path": "Files/File_1682260402840842_24270.jpg"
+        }
+    },
+    "1682260402862120:24271": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/FramesTextures/frame_params_matte.jpg",
+                "hash": "acc8bf82aaaf7e9c1d1ad29e3778af3d"
+            }
+        }
+    }
+}

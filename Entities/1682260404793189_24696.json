@@ -1,0 +1,22 @@
+{
+    "1682260404793189:24696": {
+        "IResourceController": {
+            "name": "glass_square",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682260404793474:24697",
+            "resources": [
+                "1682260404794659:24698"
+            ]
+        }
+    },
+    "1682260404793474:24697": {
+        "IResourceController": {
+            "public": {
+                "path": "Geometry/glass_square"
+            }
+        }
+    }
+}

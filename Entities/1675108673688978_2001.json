@@ -12,7 +12,8 @@
             "publicId": "1675108673689211:2269",
             "expected_hash": "af2715bddfbca2d4e72f470d285c5010",
             "additional": {
-                "originHash": "af2715bddfbca2d4e72f470d285c5010"
+                "originHash": "af2715bddfbca2d4e72f470d285c5010",
+                "subtype": "9"
             }
         },
         "IResourceManager": {
