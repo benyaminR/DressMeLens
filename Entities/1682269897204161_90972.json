@@ -1,0 +1,73 @@
+{
+    "1682269897200418:90971": {
+        "IFileManager": {
+            "path": "Files/File_1682269897200418_90971.jpg"
+        }
+    },
+    "1682269897204161:90972": {
+        "IResourceController": {
+            "name": "cap_tech",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269897204374:90973",
+            "fileId": "1682269897200418:90971",
+            "originalId": "1682269897204823:90978",
+            "publicId": "1682269897253871:90987",
+            "expected_hash": "239d8e436cdb6aeb3631bf2b69b9cf2a",
+            "additional": {
+                "originHash": "239d8e436cdb6aeb3631bf2b69b9cf2a",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682269897204374:90973",
+            "name": "Files/File_1682269897200418_90971.jpg",
+            "flags": 1
+        }
+    },
+    "1682269897204374:90973": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "119522",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "119522",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682269897227275:90986"
+        }
+    },
+    "1682269897204823:90978": {
+        "IFileManager": {
+            "path": "Files/File_1682269897204823_90978.jpg"
+        }
+    },
+    "1682269897227275:90986": {
+        "IFileManager": {
+            "path": "Files/File_1682269897227275_90986.jpg"
+        }
+    },
+    "1682269897253871:90987": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Textures/cap_tech.jpg",
+                "hash": "239d8e436cdb6aeb3631bf2b69b9cf2a"
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "1682269893504182:90342": {
+        "IFileManager": {
+            "path": "Files/File_1682269893504182_90342.js"
+        }
+    },
+    "1682269893508279:90343": {
+        "IResourceController": {
+            "name": "BaseballCapProperties",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269893508303:90344",
+            "fileId": "1682269893504182:90342",
+            "publicId": "1682269893518193:90354",
+            "expected_hash": "2364044047d413b5f19865b2ca330499"
+        },
+        "IResourceManager": {
+            "uid": "1682269893508303:90344",
+            "name": "Files/File_1682269893504182_90342.js",
+            "flags": 1
+        }
+    },
+    "1682269893518193:90354": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/BaseballCapProperties.js",
+                "hash": "2364044047d413b5f19865b2ca330499"
+            }
+        }
+    }
+}

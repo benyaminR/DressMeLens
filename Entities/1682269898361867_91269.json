@@ -1,0 +1,80 @@
+{
+    "1682269898357929:91268": {
+        "IFileManager": {
+            "path": "Files/File_1682269898357929_91268.pvr"
+        }
+    },
+    "1682269898361867:91269": {
+        "IResourceController": {
+            "name": "kitty_primary",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269898362093:91270",
+            "fileId": "1682269898357929:91268",
+            "originalId": "1682269898362589:91275",
+            "publicId": "1682269898389841:91284",
+            "expected_hash": "d949a8fd6ec2157ee3f842d51be840c3",
+            "additional": {
+                "originHash": "04182acc9b34c0968a6a85c0f3b843c0",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682269898362093:91270",
+            "name": "Files/File_1682269898357929_91268.jpg",
+            "flags": 1
+        }
+    },
+    "1682269898362093:91270": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "04182acc9b34c0968a6a85c0f3b843c0"
+                    },
+                    "v": "1682269916410918:107014"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "389120",
+                "compressedSize": "4398",
+                "extension": "png",
+                "originalRAM": "3108864",
+                "originalSize": "1830",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682269898380720:91283"
+        }
+    },
+    "1682269898362589:91275": {
+        "IFileManager": {
+            "path": "Files/File_1682269898362589_91275.png"
+        }
+    },
+    "1682269898380720:91283": {
+        "IFileManager": {
+            "path": "Files/File_1682269898380720_91283.png"
+        }
+    },
+    "1682269898389841:91284": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Paint Patterns/kitty_primary.png",
+                "hash": "04182acc9b34c0968a6a85c0f3b843c0"
+            }
+        }
+    },
+    "1682269916410918:107014": {
+        "IFileManager": {
+            "path": "Files/File_1682269916410918_107014.pvr"
+        }
+    }
+}

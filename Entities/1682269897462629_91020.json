@@ -1,0 +1,115 @@
+{
+    "1682269897456233:91019": {
+        "IFileManager": {
+            "path": "Files/File_1682269897456233_91019.mesh"
+        }
+    },
+    "1682269897462629:91020": {
+        "IResourceController": {
+            "name": "cap_occluder",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269897504132:91024",
+            "fileId": "1682269897456233:91019",
+            "publicId": "1682269897556457:91038",
+            "expected_hash": "ff4e13050372615296ee5c819c6e3662",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682269897504132:91024",
+            "name": "Files/File_1682269897456233_91019.mesh",
+            "flags": 1
+        }
+    },
+    "1682269897504132:91024": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "13104",
+                "compressedSize": "10702",
+                "extension": "mesh",
+                "originalRAM": "13104",
+                "originalSize": "10702",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682269897526230:91037"
+        }
+    },
+    "1682269897526230:91037": {
+        "IFileManager": {
+            "path": "Files/File_1682269897526230_91037.mesh"
+        }
+    },
+    "1682269897556457:91038": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Baseball Cap/Meshes/cap_occluder.mesh",
+                "hash": "ff4e13050372615296ee5c819c6e3662"
+            }
+        }
+    }
+}

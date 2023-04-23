@@ -1,0 +1,80 @@
+{
+    "1682269897749211:91072": {
+        "IFileManager": {
+            "path": "Files/File_1682269897749211_91072.pvr"
+        }
+    },
+    "1682269897753403:91073": {
+        "IResourceController": {
+            "name": "logo_opacity_mask",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269897753627:91074",
+            "fileId": "1682269897749211:91072",
+            "originalId": "1682269897754120:91079",
+            "publicId": "1682269897782871:91088",
+            "expected_hash": "47fe0dfc2bab41d090c562d5277a60fa",
+            "additional": {
+                "originHash": "35f21cc0ab077f65aeb696153dbb2f51",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682269897753627:91074",
+            "name": "Files/File_1682269897749211_91072.jpg",
+            "flags": 1
+        }
+    },
+    "1682269897753627:91074": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "35f21cc0ab077f65aeb696153dbb2f51"
+                    },
+                    "v": "1682269911113209:96099"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "982",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "308",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682269897772759:91085"
+        }
+    },
+    "1682269897754120:91079": {
+        "IFileManager": {
+            "path": "Files/File_1682269897754120_91079.png"
+        }
+    },
+    "1682269897772759:91085": {
+        "IFileManager": {
+            "path": "Files/File_1682269897772759_91085.png"
+        }
+    },
+    "1682269897782871:91088": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/logo_opacity_mask.png",
+                "hash": "35f21cc0ab077f65aeb696153dbb2f51"
+            }
+        }
+    },
+    "1682269911113209:96099": {
+        "IFileManager": {
+            "path": "Files/File_1682269911113209_96099.pvr"
+        }
+    }
+}

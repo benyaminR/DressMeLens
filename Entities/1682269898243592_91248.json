@@ -1,0 +1,80 @@
+{
+    "1682269898238988:91245": {
+        "IFileManager": {
+            "path": "Files/File_1682269898238988_91245.pvr"
+        }
+    },
+    "1682269898243592:91248": {
+        "IResourceController": {
+            "name": "swirl_secondary",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682269898243822:91249",
+            "fileId": "1682269898238988:91245",
+            "originalId": "1682269898244613:91254",
+            "publicId": "1682269898296265:91261",
+            "expected_hash": "7f29a81b4e97ea657f0d6c4128715bbe",
+            "additional": {
+                "originHash": "1f05c6fdd83dc7d0d33a113a17376c50",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682269898243822:91249",
+            "name": "Files/File_1682269898238988_91245.jpg",
+            "flags": 1
+        }
+    },
+    "1682269898243822:91249": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1f05c6fdd83dc7d0d33a113a17376c50"
+                    },
+                    "v": "1682269915971500:106382"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "389120",
+                "compressedSize": "81380",
+                "extension": "png",
+                "originalRAM": "3108864",
+                "originalSize": "123705",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682269898269346:91260"
+        }
+    },
+    "1682269898244613:91254": {
+        "IFileManager": {
+            "path": "Files/File_1682269898244613_91254.png"
+        }
+    },
+    "1682269898269346:91260": {
+        "IFileManager": {
+            "path": "Files/File_1682269898269346_91260.png"
+        }
+    },
+    "1682269898296265:91261": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Paint Patterns/swirl_secondary.png",
+                "hash": "1f05c6fdd83dc7d0d33a113a17376c50"
+            }
+        }
+    },
+    "1682269915971500:106382": {
+        "IFileManager": {
+            "path": "Files/File_1682269915971500_106382.pvr"
+        }
+    }
+}

@@ -29,7 +29,102 @@
     "view": {
         "InspectorUiComponent": "",
         "MapUiComponent": {
-            "mapPinPoints": ""
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
         },
         "Material::UiComponent": "",
         "MetaInfoUIComponent": {
