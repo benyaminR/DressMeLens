@@ -1,0 +1,17 @@
+{
+    "1682105772888270:3102875": {
+        "IResourceController": {
+            "name": "Body Segmentation",
+            "type": 1,
+            "subtype": 14,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682105772886114:3102869"
+        },
+        "IResourceManager": {
+            "uid": "1682105772886114:3102869",
+            "name": "Body Segmentation",
+            "flags": 0
+        }
+    }
+}

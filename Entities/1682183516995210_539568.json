@@ -1,0 +1,22 @@
+{
+    "1682183516995210:539568": {
+        "IResourceController": {
+            "name": "Hoodie Object",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183516995539:539569",
+            "resources": [
+                "1682183516997254:539570"
+            ]
+        }
+    },
+    "1682183516995539:539569": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Hoodie Object"
+            }
+        }
+    }
+}

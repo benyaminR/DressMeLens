@@ -1,0 +1,33 @@
+{
+    "1682183012894730:292322": {
+        "IFileManager": {
+            "path": "Files/File_1682183012894730_292322.js"
+        }
+    },
+    "1682183012899437:292323": {
+        "IResourceController": {
+            "name": "ShoppingController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183012899462:292324",
+            "fileId": "1682183012894730:292322",
+            "publicId": "1682183012911165:292334",
+            "expected_hash": "18e49a1c0abd947780e362c2c0fc983d"
+        },
+        "IResourceManager": {
+            "uid": "1682183012899462:292324",
+            "name": "Files/File_1682183012894730_292322.js",
+            "flags": 1
+        }
+    },
+    "1682183012911165:292334": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ShoppingController.js",
+                "hash": "18e49a1c0abd947780e362c2c0fc983d"
+            }
+        }
+    }
+}

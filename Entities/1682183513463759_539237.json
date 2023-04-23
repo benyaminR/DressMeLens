@@ -1,0 +1,73 @@
+{
+    "1682183513459024:539236": {
+        "IFileManager": {
+            "path": "Files/File_1682183513459024_539236.jpg"
+        }
+    },
+    "1682183513463759:539237": {
+        "IResourceController": {
+            "name": "cap_diff",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183513464010:539238",
+            "fileId": "1682183513459024:539236",
+            "originalId": "1682183513464599:539243",
+            "publicId": "1682183513519878:539252",
+            "expected_hash": "7ef28e2b0d701932ef3fde65131b851c",
+            "additional": {
+                "originHash": "7ef28e2b0d701932ef3fde65131b851c",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183513464010:539238",
+            "name": "Files/File_1682183513459024_539236.jpg",
+            "flags": 1
+        }
+    },
+    "1682183513464010:539238": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "94598",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "94598",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682183513490821:539251"
+        }
+    },
+    "1682183513464599:539243": {
+        "IFileManager": {
+            "path": "Files/File_1682183513464599_539243.jpg"
+        }
+    },
+    "1682183513490821:539251": {
+        "IFileManager": {
+            "path": "Files/File_1682183513490821_539251.jpg"
+        }
+    },
+    "1682183513519878:539252": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Textures/cap_diff.jpg",
+                "hash": "7ef28e2b0d701932ef3fde65131b851c"
+            }
+        }
+    }
+}

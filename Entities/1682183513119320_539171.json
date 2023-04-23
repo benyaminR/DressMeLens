@@ -1,0 +1,22 @@
+{
+    "1682183513119320:539171": {
+        "IResourceController": {
+            "name": "Baseball Cap Object",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183513119491:539172",
+            "resources": [
+                "1682183513120630:539173"
+            ]
+        }
+    },
+    "1682183513119491:539172": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object"
+            }
+        }
+    }
+}

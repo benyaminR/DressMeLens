@@ -1,0 +1,22 @@
+{
+    "1682183515766612:539427": {
+        "IResourceController": {
+            "name": "sneakers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183515766854:539428",
+            "resources": [
+                "1682183515768633:539429"
+            ]
+        }
+    },
+    "1682183515766854:539428": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Shoe Object/Try On Pack - Sneakers/sneakers"
+            }
+        }
+    }
+}

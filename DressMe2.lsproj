@@ -1,0 +1,257 @@
+{
+    "lens_id": "",
+    "document_id": "Wqfi8H_spfbYp_wxPvbJ",
+    "original_document_id": "Wqfi8H_spfbYp_wxPvbJ",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "7fb950ecd32bf51e835706b80e632c1b",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Try On",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "false",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Body.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Zoom Out.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "project:Videos\/try_on_preview_2.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Plane",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Plane",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "5",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "3D UI Layer",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1629388563350797:24784",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629388563149752:24729"
+                        },
+                        {
+                            "k": [
+                                "ArrowCurve"
+                            ],
+                            "v": "1629388563152118:24731"
+                        },
+                        {
+                            "k": [
+                                "ArrowCurve",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629388563152371:24733"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629392686178136:57608",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629392686168020:57592"
+                        },
+                        {
+                            "k": [
+                                "Circle"
+                            ],
+                            "v": "1629392686170066:57594"
+                        },
+                        {
+                            "k": [
+                                "Circle",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629392686170331:57596"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629738393025387:81114",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629738393019836:81098"
+                        },
+                        {
+                            "k": [
+                                "Circle"
+                            ],
+                            "v": "1629738393021859:81100"
+                        },
+                        {
+                            "k": [
+                                "Circle",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629738393022208:81102"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629754682888356:273499",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629754682611844:273444"
+                        },
+                        {
+                            "k": [
+                                "Plane"
+                            ],
+                            "v": "1629754682614228:273446"
+                        },
+                        {
+                            "k": [
+                                "Plane",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629754682614616:273448"
+                        }
+                    ]
+                },
+                {
+                    "k": "1630350156457061:155670",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1630350156417787:155654"
+                        },
+                        {
+                            "k": [
+                                "sweatshirt2"
+                            ],
+                            "v": "1630350156420995:155656"
+                        },
+                        {
+                            "k": [
+                                "sweatshirt2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1630350156421467:155658"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Try-On",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/32kSu7Y9XfpQvPQJo1ZALI\/4530948d7daa9a6213dba462fc0d6c31\/Try_On.zip"
+}

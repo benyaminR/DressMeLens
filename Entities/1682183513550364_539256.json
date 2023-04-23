@@ -1,0 +1,43 @@
+{
+    "1682183513544905:539253": {
+        "IFileManager": {
+            "path": "Files/File_1682183513544905_539253.pvr"
+        }
+    },
+    "1682183513550364:539256": {
+        "IResourceController": {
+            "name": "logo_opacity_mask",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183513550606:539257",
+            "fileId": "1682183513544905:539253",
+            "originalId": "1682183513551165:539262",
+            "publicId": "1682183513576844:539268",
+            "expected_hash": "61540fd3eeca6c44264268ccf2c2e8d6",
+            "additional": {
+                "originHash": "61540fd3eeca6c44264268ccf2c2e8d6",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183513550606:539257",
+            "name": "Files/File_1682183513544905_539253.jpg",
+            "flags": 1
+        }
+    },
+    "1682183513551165:539262": {
+        "IFileManager": {
+            "path": "Files/File_1682183513551165_539262.pvr"
+        }
+    },
+    "1682183513576844:539268": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Textures/logo_opacity_mask.pvr",
+                "hash": "61540fd3eeca6c44264268ccf2c2e8d6"
+            }
+        }
+    }
+}

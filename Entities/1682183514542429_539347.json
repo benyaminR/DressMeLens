@@ -1,0 +1,24 @@
+{
+    "1682183514542429:539347": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183514543001:539348",
+            "resources": [
+                "1682183514084573:539332",
+                "1682183514772834:539365",
+                "1682183515305322:539390"
+            ]
+        }
+    },
+    "1682183514543001:539348": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Materials"
+            }
+        }
+    }
+}

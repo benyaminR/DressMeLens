@@ -1,0 +1,115 @@
+{
+    "1682183513159319:539180": {
+        "IFileManager": {
+            "path": "Files/File_1682183513159319_539180.mesh"
+        }
+    },
+    "1682183513164679:539181": {
+        "IResourceController": {
+            "name": "cap_logo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183513212646:539185",
+            "fileId": "1682183513159319:539180",
+            "publicId": "1682183513229135:539197",
+            "expected_hash": "bb470690012323518bbce559ea03d32f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "true",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183513212646:539185",
+            "name": "Files/File_1682183513159319_539180.mesh",
+            "flags": 1
+        }
+    },
+    "1682183513212646:539185": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5028",
+                "compressedSize": "3262",
+                "extension": "mesh",
+                "originalRAM": "5028",
+                "originalSize": "3262",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "true",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682183513221462:539196"
+        }
+    },
+    "1682183513221462:539196": {
+        "IFileManager": {
+            "path": "Files/File_1682183513221462_539196.mesh"
+        }
+    },
+    "1682183513229135:539197": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Meshes/cap_logo.mesh",
+                "hash": "bb470690012323518bbce559ea03d32f"
+            }
+        }
+    }
+}

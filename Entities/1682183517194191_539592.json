@@ -1,0 +1,42 @@
+{
+    "1682183517191064:539591": {
+        "IFileManager": {
+            "path": "Files/File_1682183517191064_539591"
+        }
+    },
+    "1682183517194191:539592": {
+        "IResourceController": {
+            "name": "hoodie_green",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183517194198:539593",
+            "fileId": "1682183517191064:539591",
+            "originalId": "1682183517254058:539599",
+            "publicId": "1682183517618637:539606",
+            "expected_hash": "f8afbe4b129f7eb9a546218af914e144",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183517194198:539593",
+            "name": "Files/File_1682183517191064_539591",
+            "flags": 1
+        }
+    },
+    "1682183517254058:539599": {
+        "IFileManager": {
+            "path": "Files/File_1682183517254058_539599.lsmat"
+        }
+    },
+    "1682183517618637:539606": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Hoodie Object/Try On Pack - Hoodie/hoodie_green.lsmat",
+                "hash": "43fe145a8485a59009e72842cce229b1"
+            }
+        }
+    }
+}

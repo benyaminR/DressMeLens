@@ -1,0 +1,23 @@
+{
+    "1682183513121994:539175": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183513122168:539176",
+            "resources": [
+                "1682183513053596:539157",
+                "1682183513164679:539181"
+            ]
+        }
+    },
+    "1682183513122168:539176": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Meshes"
+            }
+        }
+    }
+}

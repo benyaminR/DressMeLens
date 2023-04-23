@@ -1,0 +1,24 @@
+{
+    "1682183516602001:539507": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183516602311:539508",
+            "resources": [
+                "1682183516577533:539493",
+                "1682183516707305:539516",
+                "1682183516836520:539535"
+            ]
+        }
+    },
+    "1682183516602311:539508": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Shoe Object/Textures"
+            }
+        }
+    }
+}

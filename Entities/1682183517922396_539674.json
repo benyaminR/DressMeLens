@@ -1,0 +1,17 @@
+{
+    "1682183517922396:539674": {
+        "IResourceController": {
+            "name": "Shopping Module [EDIT_ME]",
+            "type": 30,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183517922382:539673"
+        },
+        "IResourceManager": {
+            "uid": "1682183517922382:539673",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

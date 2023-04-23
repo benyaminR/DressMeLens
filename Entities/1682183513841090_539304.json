@@ -1,0 +1,43 @@
+{
+    "1682183513834448:539303": {
+        "IFileManager": {
+            "path": "Files/File_1682183513834448_539303.pvr"
+        }
+    },
+    "1682183513841090:539304": {
+        "IResourceController": {
+            "name": "sheep",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183513841537:539305",
+            "fileId": "1682183513834448:539303",
+            "originalId": "1682183513842336:539310",
+            "publicId": "1682183513875025:539318",
+            "expected_hash": "27b5790bb749f43fea31347da13b3442",
+            "additional": {
+                "originHash": "27b5790bb749f43fea31347da13b3442",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183513841537:539305",
+            "name": "Files/File_1682183513834448_539303.jpg",
+            "flags": 1
+        }
+    },
+    "1682183513842336:539310": {
+        "IFileManager": {
+            "path": "Files/File_1682183513842336_539310.pvr"
+        }
+    },
+    "1682183513875025:539318": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Textures/sheep.pvr",
+                "hash": "27b5790bb749f43fea31347da13b3442"
+            }
+        }
+    }
+}

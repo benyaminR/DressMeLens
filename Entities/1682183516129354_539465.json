@@ -1,0 +1,42 @@
+{
+    "1682183516125865:539464": {
+        "IFileManager": {
+            "path": "Files/File_1682183516125865_539464"
+        }
+    },
+    "1682183516129354:539465": {
+        "IResourceController": {
+            "name": "sneakers_red",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682183516129360:539466",
+            "fileId": "1682183516125865:539464",
+            "originalId": "1682183516189985:539472",
+            "publicId": "1682183516531293:539479",
+            "expected_hash": "f8afbe4b129f7eb9a546218af914e144",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682183516129360:539466",
+            "name": "Files/File_1682183516125865_539464",
+            "flags": 1
+        }
+    },
+    "1682183516189985:539472": {
+        "IFileManager": {
+            "path": "Files/File_1682183516189985_539472.lsmat"
+        }
+    },
+    "1682183516531293:539479": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Shoe Object/Try On Pack - Sneakers/sneakers_red.lsmat",
+                "hash": "8334827f736c846972f933bf51466387"
+            }
+        }
+    }
+}

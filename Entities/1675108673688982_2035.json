@@ -1,0 +1,42 @@
+{
+    "1675108673688982:2035": {
+        "IResourceController": {
+            "name": "ui_arrow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1630361942099867:632854",
+            "fileId": "1675108673689058:2138",
+            "originalId": "1675108673689059:2139",
+            "publicId": "1675108673689203:2249",
+            "expected_hash": "30a8c4e154780cfd86bdf72f2c0dce51",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1630361942099867:632854",
+            "name": "Files/File_1675108673689058_2138",
+            "flags": 1
+        }
+    },
+    "1675108673689058:2138": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689058_2138"
+        }
+    },
+    "1675108673689059:2139": {
+        "IFileManager": {
+            "path": "Files/File_1675108673689059_2139.lsmat"
+        }
+    },
+    "1675108673689203:2249": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/UI/ui_arrow.lsmat",
+                "hash": "97a8b87c26c10574f4965fd07000acdf"
+            }
+        }
+    }
+}

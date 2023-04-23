@@ -1,0 +1,23 @@
+{
+    "1682183515768633:539429": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183515768904:539430",
+            "resources": [
+                "1682183515704046:539409",
+                "1682183515844725:539437"
+            ]
+        }
+    },
+    "1682183515768904:539430": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Shoe Object/Try On Pack - Sneakers/sneakers/Meshes"
+            }
+        }
+    }
+}

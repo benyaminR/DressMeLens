@@ -1,0 +1,28 @@
+{
+    "1682183513275509:539213": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183513275823:539214",
+            "resources": [
+                "1682183513250987:539201",
+                "1682183513349844:539220",
+                "1682183513463759:539237",
+                "1682183513550364:539256",
+                "1682183513611485:539271",
+                "1682183513708679:539287",
+                "1682183513841090:539304"
+            ]
+        }
+    },
+    "1682183513275823:539214": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Textures"
+            }
+        }
+    }
+}

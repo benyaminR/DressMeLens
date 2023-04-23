@@ -1,0 +1,22 @@
+{
+    "1682183517000119:539574": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682183517000329:539575",
+            "resources": [
+                "1682183516935302:539554"
+            ]
+        }
+    },
+    "1682183517000329:539575": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Objects [DELETE_ME]/Hoodie Object/Try On Pack - Hoodie/hoodie/Meshes"
+            }
+        }
+    }
+}
