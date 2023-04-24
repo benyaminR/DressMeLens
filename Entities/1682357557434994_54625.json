@@ -1,0 +1,39 @@
+{
+    "1682357557431007:54624": {
+        "IFileManager": {
+            "path": "Files/File_1682357557431007_54624"
+        }
+    },
+    "1682357557434994:54625": {
+        "IResourceController": {
+            "name": "DefaultMtl",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682357557435004:54626",
+            "fileId": "1682357557431007:54624",
+            "originalId": "1682357557507639:54632",
+            "publicId": "1682357558809632:54853",
+            "expected_hash": "975815891b55e12a43f3a8051811f25a"
+        },
+        "IResourceManager": {
+            "uid": "1682357557435004:54626",
+            "name": "Files/File_1682357557431007_54624",
+            "flags": 1
+        }
+    },
+    "1682357557507639:54632": {
+        "IFileManager": {
+            "path": "Files/File_1682357557507639_54632.lsmat"
+        }
+    },
+    "1682357558809632:54853": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Try On Pack - T Shirt/tshirt/Materials/DefaultMtl.lsmat",
+                "hash": "3da3d03352fda78f862af7be71c8a005"
+            }
+        }
+    }
+}

@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Models/Baseball Cap/Materials/cap_shadow.lsmat",
-                "hash": "987c941c00ccef8d220fa9ecc451de23"
+                "hash": "80dafc17ffe857d1fbc9c843a41f169a"
             }
         }
     }

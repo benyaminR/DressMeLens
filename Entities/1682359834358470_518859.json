@@ -1,0 +1,50 @@
+{
+    "1682359834358470:518859": {
+        "IResourceController": {
+            "name": "Body_Mesh_T_Pose",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682359842172775:525451",
+            "publicId": "1682359842264513:525468",
+            "expected_hash": "666107d150df718b986f073a05e8df3a",
+            "resources": [
+                "1682359840457604:525045",
+                "1682359840809692:525137",
+                "1682359842084182:525399"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "initialShadingGroup9",
+                        "v": "1682359840815262:525140"
+                    }
+                ]
+            }
+        }
+    },
+    "1682359842172775:525451": {
+        "IFileManager": {
+            "path": "Files/File_1682359842172775_525451.fbx"
+        }
+    },
+    "1682359842264513:525468": {
+        "IResourceController": {
+            "public": {
+                "path": "Body Mesh Reference/Body_Mesh_T_Pose.fbx",
+                "hash": "666107d150df718b986f073a05e8df3a"
+            }
+        }
+    }
+}

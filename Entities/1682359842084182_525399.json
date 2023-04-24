@@ -1,0 +1,30 @@
+{
+    "1682359842084182:525399": {
+        "IResourceController": {
+            "name": "Body_Mesh_T_Pose",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682359842083948:525356",
+            "fileId": "1682359842152663:525442",
+            "originalId": "1682362273071004:997283",
+            "expected_hash": "fe01b10d807a24e13c204d6ac66f3530"
+        },
+        "IResourceManager": {
+            "uid": "1682359842083948:525356",
+            "name": "Body_Mesh_T_Pose",
+            "flags": 0
+        }
+    },
+    "1682359842152663:525442": {
+        "IFileManager": {
+            "path": "Files/File_1682359842152663_525442.oprfb"
+        }
+    },
+    "1682362273071004:997283": {
+        "IFileManager": {
+            "path": "Files/File_1682362273071004_997283.oprfb"
+        }
+    }
+}

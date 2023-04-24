@@ -1,0 +1,33 @@
+{
+    "1682359842399970:525805": {
+        "IFileManager": {
+            "path": "Files/File_1682359842399970_525805.js"
+        }
+    },
+    "1682359842405444:525823": {
+        "IResourceController": {
+            "name": "LICENSE",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682359842405492:525824",
+            "fileId": "1682359842399970:525805",
+            "publicId": "1682359842407904:525829",
+            "expected_hash": "79cda374d51debbbda779369d4b16143"
+        },
+        "IResourceManager": {
+            "uid": "1682359842405492:525824",
+            "name": "Files/File_1682359842399970_525805.js",
+            "flags": 1
+        }
+    },
+    "1682359842407904:525829": {
+        "IResourceController": {
+            "public": {
+                "path": "Body Mesh Reference/LICENSE.js",
+                "hash": "79cda374d51debbbda779369d4b16143"
+            }
+        }
+    }
+}

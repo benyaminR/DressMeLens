@@ -144,12 +144,12 @@
         "PreviewUiComponent": {
             "preview_descriptor": {
                 "is_capture": "0",
-                "camera_type": "1"
+                "camera_type": "2"
             },
             "show_snap_ui": "false",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
-                "back_preview_id": "bundle:Preview\/Images\/Body.jpg",
+                "back_preview_id": "bundle:Preview\/Images\/Skeletal.jpg",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
                 "front_preview_is_favorite": "false"
@@ -218,7 +218,28 @@
     },
     "controller": {
         "AssetImportController": {
-            "itemUidToID": ""
+            "itemUidToID": [
+                {
+                    "k": "1682357558985147:55210",
+                    "v": "73zW89v6lMezjL2t8LhSso"
+                },
+                {
+                    "k": "1682357560093852:55387",
+                    "v": "73zW89v6lMezjL2t8LhSso"
+                },
+                {
+                    "k": "1682359566450506:468795",
+                    "v": "1Jlo3EV7DSUHgOdkWtOPMp"
+                },
+                {
+                    "k": "1682359842320930:525524",
+                    "v": "3ro50QHh9jwRczEPqDW8N"
+                },
+                {
+                    "k": "1682359842405492:525824",
+                    "v": "3ro50QHh9jwRczEPqDW8N"
+                }
+            ]
         },
         "Compression::IController": "",
         "DigitalGoodsController": {
@@ -338,6 +359,194 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1630350156421467:155658"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682272836416550:776119",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682272836409239:776104"
+                        },
+                        {
+                            "k": [
+                                "Poloshirt_default.004"
+                            ],
+                            "v": "1682272836412176:776106"
+                        },
+                        {
+                            "k": [
+                                "Poloshirt_default.004",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682272836414326:776108"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682357558678420:54797",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682357558671785:54782"
+                        },
+                        {
+                            "k": [
+                                "tshirt_mesh"
+                            ],
+                            "v": "1682357558674274:54784"
+                        },
+                        {
+                            "k": [
+                                "tshirt_mesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682357558676192:54786"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682359834148821:518744",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682359834127697:518690"
+                        },
+                        {
+                            "k": [
+                                "body_low"
+                            ],
+                            "v": "1682359834143667:518731"
+                        },
+                        {
+                            "k": [
+                                "body_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359834146050:518733"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low"
+                            ],
+                            "v": "1682359834135147:518705"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359834137227:518707"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low"
+                            ],
+                            "v": "1682359834139051:518718"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359834141235:518720"
+                        },
+                        {
+                            "k": [
+                                "head_low"
+                            ],
+                            "v": "1682359834131130:518692"
+                        },
+                        {
+                            "k": [
+                                "head_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359834133245:518694"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682359842083948:525356",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682359842056308:525302"
+                        },
+                        {
+                            "k": [
+                                "body_low"
+                            ],
+                            "v": "1682359842078066:525343"
+                        },
+                        {
+                            "k": [
+                                "body_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359842080974:525345"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low"
+                            ],
+                            "v": "1682359842066944:525317"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359842069677:525319"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low"
+                            ],
+                            "v": "1682359842072197:525330"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359842075334:525332"
+                        },
+                        {
+                            "k": [
+                                "head_low"
+                            ],
+                            "v": "1682359842061298:525304"
+                        },
+                        {
+                            "k": [
+                                "head_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682359842064369:525306"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682360271663280:592867",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682360271656099:592850"
+                        },
+                        {
+                            "k": [
+                                "Polotshirt"
+                            ],
+                            "v": "1682360271659105:592852"
+                        },
+                        {
+                            "k": [
+                                "Polotshirt",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682360271661274:592854"
                         }
                     ]
                 }

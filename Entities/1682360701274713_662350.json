@@ -1,0 +1,79 @@
+{
+    "1682360701262346:662343": {
+        "IFileManager": {
+            "path": "Files/File_1682360701262346_662343.pvr"
+        }
+    },
+    "1682360701274713:662350": {
+        "IResourceController": {
+            "name": "Basecolor",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682360701275961:662351",
+            "fileId": "1682360701262346:662343",
+            "originalId": "1682360701277432:662357",
+            "publicId": "1682360701385687:662368",
+            "expected_hash": "cd49f3ba47738fdec7e3fff3534a5280",
+            "additional": {
+                "originHash": "2d17eda081d9afa38b166ed6fde0441f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682360701275961:662351",
+            "name": "Files/File_1682360701262346_662343.jpg",
+            "flags": 1
+        }
+    },
+    "1682360701275961:662351": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "2d17eda081d9afa38b166ed6fde0441f"
+                    },
+                    "v": "1682360739826109:673514"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1273971",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "919164",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682360701313334:662359"
+        }
+    },
+    "1682360701277432:662357": {
+        "IFileManager": {
+            "path": "Files/File_1682360701277432_662357.jpg"
+        }
+    },
+    "1682360701313334:662359": {
+        "IFileManager": {
+            "path": "Files/File_1682360701313334_662359.jpg"
+        }
+    },
+    "1682360701385687:662368": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt/Basecolor.jpg",
+                "hash": "2d17eda081d9afa38b166ed6fde0441f"
+            }
+        }
+    },
+    "1682360739826109:673514": {
+        "IFileManager": {
+            "path": "Files/File_1682360739826109_673514.pvr"
+        }
+    }
+}

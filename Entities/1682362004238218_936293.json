@@ -1,0 +1,72 @@
+{
+    "1682362004170875:936283": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt/BaseColorDesaturated.jpg",
+                "hash": "f141bad1a593a87927eef9ecb2a776c3"
+            }
+        }
+    },
+    "1682362004209465:936292": {
+        "IFileManager": {
+            "path": "Files/File_1682362004209465_936292.jpg"
+        }
+    },
+    "1682362004238218:936293": {
+        "IResourceController": {
+            "name": "BaseColorDesaturated",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682362004239985:936294",
+            "fileId": "1682362004209465:936292",
+            "originalId": "1682362004316275:936341",
+            "publicId": "1682362004170875:936283",
+            "expected_hash": "f141bad1a593a87927eef9ecb2a776c3",
+            "additional": {
+                "originHash": "f141bad1a593a87927eef9ecb2a776c3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682362004239985:936294",
+            "name": "Files/File_1682362004209465_936292.jpg",
+            "flags": 1
+        }
+    },
+    "1682362004239985:936294": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "1011544",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "1011544",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682362004349193:936344"
+        }
+    },
+    "1682362004316275:936341": {
+        "IFileManager": {
+            "path": "Files/File_1682362004316275_936341.jpg"
+        }
+    },
+    "1682362004349193:936344": {
+        "IFileManager": {
+            "path": "Files/File_1682362004349193_936344.jpg"
+        }
+    }
+}

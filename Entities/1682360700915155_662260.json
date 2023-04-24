@@ -1,0 +1,79 @@
+{
+    "1682360700900015:662259": {
+        "IFileManager": {
+            "path": "Files/File_1682360700900015_662259.pvr"
+        }
+    },
+    "1682360700915155:662260": {
+        "IResourceController": {
+            "name": "Normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682360700917380:662261",
+            "fileId": "1682360700900015:662259",
+            "originalId": "1682360700919079:662266",
+            "publicId": "1682360701100518:662284",
+            "expected_hash": "831cf6cb39c435f61c469f5999050fc5",
+            "additional": {
+                "originHash": "df43f72bdf5e4df6840e768f095d0737"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682360700917380:662261",
+            "name": "Files/File_1682360700900015_662259.jpg",
+            "flags": 1
+        }
+    },
+    "1682360700917380:662261": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "df43f72bdf5e4df6840e768f095d0737"
+                    },
+                    "v": "1682360726912353:669786"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "1447725",
+                "extension": "jpg",
+                "originalRAM": "16777216",
+                "originalSize": "1607380",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682360701002208:662275"
+        }
+    },
+    "1682360700919079:662266": {
+        "IFileManager": {
+            "path": "Files/File_1682360700919079_662266.jpg"
+        }
+    },
+    "1682360701002208:662275": {
+        "IFileManager": {
+            "path": "Files/File_1682360701002208_662275.jpg"
+        }
+    },
+    "1682360701100518:662284": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt/Normal.jpg",
+                "hash": "df43f72bdf5e4df6840e768f095d0737"
+            }
+        }
+    },
+    "1682360726912353:669786": {
+        "IFileManager": {
+            "path": "Files/File_1682360726912353_669786.pvr"
+        }
+    }
+}

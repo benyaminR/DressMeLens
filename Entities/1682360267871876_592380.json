@@ -1,0 +1,50 @@
+{
+    "1682360267871876:592380": {
+        "IResourceController": {
+            "name": "Poloshirt",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682360271736693:592914",
+            "publicId": "1682360271822817:592929",
+            "expected_hash": "b9b804688c3e0aac92251c7ef0585d06",
+            "resources": [
+                "1682360270282141:592653",
+                "1682360270364366:592675",
+                "1682360271663400:592883"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1682360270368313:592678"
+                    }
+                ]
+            }
+        }
+    },
+    "1682360271736693:592914": {
+        "IFileManager": {
+            "path": "Files/File_1682360271736693_592914.fbx"
+        }
+    },
+    "1682360271822817:592929": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt/Poloshirt.fbx",
+                "hash": "b9b804688c3e0aac92251c7ef0585d06"
+            }
+        }
+    }
+}

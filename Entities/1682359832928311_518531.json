@@ -1,0 +1,22 @@
+{
+    "1682359832928311:518531": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682359834336278:518857",
+            "resources": [
+                "1682359832932317:518533"
+            ]
+        }
+    },
+    "1682359834336278:518857": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Body Mesh Reference/Body_Mesh_A_Pose/Materials"
+            }
+        }
+    }
+}

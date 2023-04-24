@@ -32,7 +32,7 @@
         "IResourceController": {
             "public": {
                 "path": "Models/Baseball Cap/Materials/cap_main_primary.lsmat",
-                "hash": "764c35cf219bad873dfc672771a16ca2"
+                "hash": "5e10eced264ff547212f1f7eac3b8310"
             }
         }
     }

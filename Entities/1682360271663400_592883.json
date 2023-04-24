@@ -1,0 +1,30 @@
+{
+    "1682360271663400:592883": {
+        "IResourceController": {
+            "name": "Poloshirt",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682360271663280:592867",
+            "fileId": "1682360271728690:592909",
+            "originalId": "1682362272929297:997219",
+            "expected_hash": "4f68674c3b3ff920d299964c708f78a1"
+        },
+        "IResourceManager": {
+            "uid": "1682360271663280:592867",
+            "name": "Poloshirt",
+            "flags": 0
+        }
+    },
+    "1682360271728690:592909": {
+        "IFileManager": {
+            "path": "Files/File_1682360271728690_592909.oprfb"
+        }
+    },
+    "1682362272929297:997219": {
+        "IFileManager": {
+            "path": "Files/File_1682362272929297_997219.oprfb"
+        }
+    }
+}

@@ -17,6 +17,7 @@
             "publicId": "1682183517797639:539648",
             "expected_hash": "0ab1187ca732ed723d2e302f88f072f0",
             "additional": {
+                "originHash": "0ab1187ca732ed723d2e302f88f072f0",
                 "subtype": "9"
             }
         },

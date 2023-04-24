@@ -10,7 +10,7 @@
             "fileId": "1675108673689105:2183",
             "originalId": "1675108673689106:2184",
             "publicId": "1675108673689224:2325",
-            "expected_hash": "c5cea5d4d96bd3b4aea58250ebba9689",
+            "expected_hash": "a4e1a6ab6bf45615557a623d730c625e",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Garments/Materials/hoodie_green.lsmat",
-                "hash": "aaf8804cb16898a5c41f68d6d0f012ef"
+                "hash": "7ad1ec0ef38d785e3371b8b6d59762d4"
             }
         }
     }

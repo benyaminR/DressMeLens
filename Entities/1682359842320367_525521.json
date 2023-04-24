@@ -1,0 +1,79 @@
+{
+    "1682359842309655:525487": {
+        "IFileManager": {
+            "path": "Files/File_1682359842309655_525487.pvr"
+        }
+    },
+    "1682359842320367:525521": {
+        "IResourceController": {
+            "name": "bodymesh_UV",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682359842320930:525524",
+            "fileId": "1682359842309655:525487",
+            "originalId": "1682359842321794:525532",
+            "publicId": "1682359842395074:525789",
+            "expected_hash": "f7b041e44c565ae7570e86bfdb8d766a",
+            "additional": {
+                "originHash": "fe0ca2e8ea164159874dc521b512957a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682359842320930:525524",
+            "name": "Files/File_1682359842309655_525487.png",
+            "flags": 1
+        }
+    },
+    "1682359842320930:525524": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fe0ca2e8ea164159874dc521b512957a"
+                    },
+                    "v": "1682359843525438:528635"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "133854",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "238315",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682359842360806:525678"
+        }
+    },
+    "1682359842321794:525532": {
+        "IFileManager": {
+            "path": "Files/File_1682359842321794_525532.png"
+        }
+    },
+    "1682359842360806:525678": {
+        "IFileManager": {
+            "path": "Files/File_1682359842360806_525678.png"
+        }
+    },
+    "1682359842395074:525789": {
+        "IResourceController": {
+            "public": {
+                "path": "Body Mesh Reference/bodymesh_UV.png",
+                "hash": "fe0ca2e8ea164159874dc521b512957a"
+            }
+        }
+    },
+    "1682359843525438:528635": {
+        "IFileManager": {
+            "path": "Files/File_1682359843525438_528635.pvr"
+        }
+    }
+}

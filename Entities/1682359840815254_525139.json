@@ -1,0 +1,39 @@
+{
+    "1682359840810747:525138": {
+        "IFileManager": {
+            "path": "Files/File_1682359840810747_525138"
+        }
+    },
+    "1682359840815254:525139": {
+        "IResourceController": {
+            "name": "initialShadingGroup9",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682359840815262:525140",
+            "fileId": "1682359840810747:525138",
+            "originalId": "1682359840878613:525152",
+            "publicId": "1682359842268561:525470",
+            "expected_hash": "975815891b55e12a43f3a8051811f25a"
+        },
+        "IResourceManager": {
+            "uid": "1682359840815262:525140",
+            "name": "Files/File_1682359840810747_525138",
+            "flags": 1
+        }
+    },
+    "1682359840878613:525152": {
+        "IFileManager": {
+            "path": "Files/File_1682359840878613_525152.lsmat"
+        }
+    },
+    "1682359842268561:525470": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Body Mesh Reference/Body_Mesh_T_Pose/Materials/initialShadingGroup9.lsmat",
+                "hash": "d8a39939b3a7240899b9ede1ab47ba46"
+            }
+        }
+    }
+}
