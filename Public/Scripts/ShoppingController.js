@@ -49,14 +49,8 @@
 // @ui {"widget":"group_end"}
 
 
-// @ui {"widget":"group_start", "label":"State 5"}
-// @input string state5name
-// @input bool state5useTrigger = false {"label" : "Use Trigger"}
-// @input string state5Trigger {"showIf" : "state5useTrigger","label" : "Custom Trigger"}
-// @input SceneObject[] state5objects
-// @ui {"widget":"group_end"}
 
-const NUM_STATE_INPUTS = 6;
+const NUM_STATE_INPUTS = 5;
 
 if (!script.domain) {
     print("ERROR: domain must be set");
