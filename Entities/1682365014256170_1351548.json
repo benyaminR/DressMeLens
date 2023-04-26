@@ -1,0 +1,23 @@
+{
+    "1682365014256170:1351548": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682365017175144:1352052",
+            "resources": [
+                "1682365014260598:1351550",
+                "1682365015661039:1351693"
+            ]
+        }
+    },
+    "1682365017175144:1352052": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Models/Jeans/Jeans/Materials"
+            }
+        }
+    }
+}

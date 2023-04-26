@@ -1,0 +1,79 @@
+{
+    "1682364942712038:1335382": {
+        "IFileManager": {
+            "path": "Files/File_1682364942712038_1335382.pvr"
+        }
+    },
+    "1682364942725247:1335383": {
+        "IResourceController": {
+            "name": "BaseColor",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682364942729244:1335390",
+            "fileId": "1682364942712038:1335382",
+            "originalId": "1682364942732453:1335395",
+            "publicId": "1682365017163764:1352051",
+            "expected_hash": "f4ad2c9569c3a56f6eb460c54d15131b",
+            "additional": {
+                "originHash": "a28db715a1ad84fecee1a7c5b85c28be"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682364942729244:1335390",
+            "name": "Files/File_1682364942712038_1335382.png",
+            "flags": 1
+        }
+    },
+    "1682364942729244:1335390": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a28db715a1ad84fecee1a7c5b85c28be"
+                    },
+                    "v": "1682365004131068:1348070"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "645679",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "2809814",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682364942863918:1335406"
+        }
+    },
+    "1682364942732453:1335395": {
+        "IFileManager": {
+            "path": "Files/File_1682364942732453_1335395.png"
+        }
+    },
+    "1682364942863918:1335406": {
+        "IFileManager": {
+            "path": "Files/File_1682364942863918_1335406.png"
+        }
+    },
+    "1682365004131068:1348070": {
+        "IFileManager": {
+            "path": "Files/File_1682365004131068_1348070.pvr"
+        }
+    },
+    "1682365017163764:1352051": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Models/Jeans/Jeans/Textures/BaseColor.png",
+                "hash": "a28db715a1ad84fecee1a7c5b85c28be"
+            }
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1682533003331455:219042": {
+        "IFileManager": {
+            "path": "Files/File_1682533003331455_219042.jpg"
+        }
+    },
+    "1682533003347022:219043": {
+        "IResourceController": {
+            "name": "Street",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682533003347733:219044",
+            "fileId": "1682533003331455:219042",
+            "originalId": "1682533003348451:219049",
+            "publicId": "1682533003440065:219059",
+            "expected_hash": "cbb9fff801b21c37991b133f502c1548",
+            "additional": {
+                "originHash": "a492e7ba9e6c211dc73e455dec2da22c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682533003347733:219044",
+            "name": "Files/File_1682533003331455_219042.jpg",
+            "flags": 1
+        }
+    },
+    "1682533003347733:219044": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "11182080",
+                "compressedSize": "468040",
+                "extension": "jpg",
+                "originalRAM": "11182080",
+                "originalSize": "468040",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682533003395415:219050"
+        }
+    },
+    "1682533003348451:219049": {
+        "IFileManager": {
+            "path": "Files/File_1682533003348451_219049.jpg"
+        }
+    },
+    "1682533003395415:219050": {
+        "IFileManager": {
+            "path": "Files/File_1682533003395415_219050.jpg"
+        }
+    },
+    "1682533003440065:219059": {
+        "IResourceController": {
+            "public": {
+                "path": "Backgrounds/Street.jpg",
+                "hash": "a492e7ba9e6c211dc73e455dec2da22c"
+            }
+        }
+    }
+}

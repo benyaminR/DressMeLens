@@ -1,0 +1,22 @@
+{
+    "1682364932684441:1334380": {
+        "IResourceController": {
+            "name": "Jeans",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682364932684883:1334381",
+            "resources": [
+                "1682365010902867:1351185"
+            ]
+        }
+    },
+    "1682364932684883:1334381": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Jeans"
+            }
+        }
+    }
+}

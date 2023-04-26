@@ -1,0 +1,66 @@
+{
+    "1682364945443325:1338189": {
+        "IFileManager": {
+            "path": "Files/File_1682364945443325_1338189.png"
+        }
+    },
+    "1682364945455702:1338196": {
+        "IResourceController": {
+            "name": "Normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682364945457241:1338197",
+            "fileId": "1682364945443325:1338189",
+            "originalId": "1682364945458668:1338202",
+            "publicId": "1682365017158548:1352050",
+            "expected_hash": "70cc8bafdcc7621f8e8df7b80fd9a9fc",
+            "additional": {
+                "originHash": "70cc8bafdcc7621f8e8df7b80fd9a9fc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682364945457241:1338197",
+            "name": "Files/File_1682364945443325_1338189.png",
+            "flags": 1
+        }
+    },
+    "1682364945457241:1338197": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "980835",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "980835",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682364945560150:1338205"
+        }
+    },
+    "1682364945458668:1338202": {
+        "IFileManager": {
+            "path": "Files/File_1682364945458668_1338202.png"
+        }
+    },
+    "1682364945560150:1338205": {
+        "IFileManager": {
+            "path": "Files/File_1682364945560150_1338205.png"
+        }
+    },
+    "1682365017158548:1352050": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Models/Jeans/Jeans/Textures/Normal.png",
+                "hash": "70cc8bafdcc7621f8e8df7b80fd9a9fc"
+            }
+        }
+    }
+}

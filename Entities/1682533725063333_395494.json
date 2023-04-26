@@ -1,0 +1,33 @@
+{
+    "1682533725044774:395493": {
+        "IFileManager": {
+            "path": "Files/File_1682533725044774_395493.js"
+        }
+    },
+    "1682533725063333:395494": {
+        "IResourceController": {
+            "name": "BackgroundChanger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682533725064454:395495",
+            "fileId": "1682533725044774:395493",
+            "publicId": "1682533725069755:395500",
+            "expected_hash": "9e519bf7009202ecf73a16215accfb27"
+        },
+        "IResourceManager": {
+            "uid": "1682533725064454:395495",
+            "name": "Files/File_1682533725044774_395493.js",
+            "flags": 1
+        }
+    },
+    "1682533725069755:395500": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/BackgroundChanger.js",
+                "hash": "9e519bf7009202ecf73a16215accfb27"
+            }
+        }
+    }
+}

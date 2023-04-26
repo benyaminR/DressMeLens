@@ -1,0 +1,25 @@
+{
+    "1682532605134210:136440": {
+        "IResourceController": {
+            "name": "Backgrounds",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682532605134454:136441",
+            "resources": [
+                "1682532613392012:137363",
+                "1682532887664927:180804",
+                "1682533003347022:219043",
+                "1682533121939573:258784"
+            ]
+        }
+    },
+    "1682532605134454:136441": {
+        "IResourceController": {
+            "public": {
+                "path": "Backgrounds"
+            }
+        }
+    }
+}

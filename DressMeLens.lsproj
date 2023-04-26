@@ -151,7 +151,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Skeletal.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
@@ -547,6 +547,80 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1682360271661274:592854"
+                        }
+                    ]
+                },
+                {
+                    "k": "1682365016586041:1351858",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682365016557240:1351791"
+                        },
+                        {
+                            "k": [
+                                "body_low"
+                            ],
+                            "v": "1682365016580874:1351845"
+                        },
+                        {
+                            "k": [
+                                "body_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682365016583170:1351847"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low"
+                            ],
+                            "v": "1682365016571083:1351819"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682365016573553:1351821"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low"
+                            ],
+                            "v": "1682365016575817:1351832"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682365016578803:1351834"
+                        },
+                        {
+                            "k": [
+                                "head_low"
+                            ],
+                            "v": "1682365016566779:1351806"
+                        },
+                        {
+                            "k": [
+                                "head_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682365016569002:1351808"
+                        },
+                        {
+                            "k": [
+                                "wranglerjeans"
+                            ],
+                            "v": "1682365016562342:1351793"
+                        },
+                        {
+                            "k": [
+                                "wranglerjeans",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682365016564553:1351795"
                         }
                     ]
                 }

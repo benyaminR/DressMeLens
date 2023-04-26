@@ -14,7 +14,7 @@
             "uid": "1682269893429654:90325",
             "fileId": "1682269893415999:90321",
             "publicId": "1682269893450698:90335",
-            "expected_hash": "272888acc9d613deb42c84cda5b2cc92"
+            "expected_hash": "1a4afc519266f332d36aac3a028ad6eb"
         },
         "IResourceManager": {
             "uid": "1682269893429654:90325",
@@ -26,7 +26,7 @@
         "IResourceController": {
             "public": {
                 "path": "Scripts/BaseballCapController.js",
-                "hash": "272888acc9d613deb42c84cda5b2cc92"
+                "hash": "1a4afc519266f332d36aac3a028ad6eb"
             }
         }
     }

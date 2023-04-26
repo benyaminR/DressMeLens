@@ -98,8 +98,8 @@ function init() {
     }
 
     // Set FacePaint Enabled
-    script.properties.api.facePaintPrimary.enabled = script.showFacePaint;
-    script.properties.api.facePaintSecondary.enabled = script.showFacePaint;
+    //script.properties.api.facePaintPrimary.enabled = script.showFacePaint;
+    //script.properties.api.facePaintSecondary.enabled = script.showFacePaint;
 
     for (var faceMask in script.properties.api.facePaintEffects) {
         script.properties.api.facePaintEffects[faceMask].enabled = script.showFacePaint;

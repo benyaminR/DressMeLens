@@ -8,7 +8,11 @@
             "hidden": false,
             "uid": "1630108517727253:826931",
             "additional": {
-                "externalBodyMapFileID": "1675108673689044:2124"
+                "_exteraFile_": [
+                    "Files/File_1675108673689044_2124.extmesh"
+                ],
+                "externalBodyMapFileID": "1675108673689044:2124",
+                "externalBodyMapFilepath": "Files/File_1675108673689044_2124.extmesh"
             }
         },
         "IResourceManager": {

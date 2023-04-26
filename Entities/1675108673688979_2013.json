@@ -10,7 +10,7 @@
             "fileId": "1675108673689022:2100",
             "originalId": "1675108673689037:2116",
             "publicId": "1675108673689219:2302",
-            "expected_hash": "44923b90efad49bc96272a1479d68174",
+            "expected_hash": "6b57b1b3a24f720c37ac93b67994dc75",
             "additional": {
                 "isUnpackedInPublic": "false"
             }
@@ -35,7 +35,7 @@
         "IResourceController": {
             "public": {
                 "path": "Garments/Materials/leggings_purple.lsmat",
-                "hash": "029447ef9b3d228282afc15df0d6a138"
+                "hash": "3da3cd92b37f7516d20964ab6345a854"
             }
         }
     }

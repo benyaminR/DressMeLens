@@ -1,0 +1,30 @@
+{
+    "1682365016586753:1351918": {
+        "IResourceController": {
+            "name": "Jeans",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682365016586041:1351858",
+            "fileId": "1682365016665768:1351984",
+            "originalId": "1682365140781445:1394913",
+            "expected_hash": "f9911f6bf78b78798da6c4406adf79b2"
+        },
+        "IResourceManager": {
+            "uid": "1682365016586041:1351858",
+            "name": "Jeans",
+            "flags": 0
+        }
+    },
+    "1682365016665768:1351984": {
+        "IFileManager": {
+            "path": "Files/File_1682365016665768_1351984.oprfb"
+        }
+    },
+    "1682365140781445:1394913": {
+        "IFileManager": {
+            "path": "Files/File_1682365140781445_1394913.oprfb"
+        }
+    }
+}

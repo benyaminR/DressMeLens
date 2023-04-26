@@ -1,0 +1,55 @@
+{
+    "1682365010902867:1351185": {
+        "IResourceController": {
+            "name": "Jeans",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682365016685584:1351985",
+            "publicId": "1682365017152986:1352048",
+            "expected_hash": "53350815d97d9712f86735beb4ab9a1c",
+            "resources": [
+                "1682365012589258:1351345",
+                "1682365013097887:1351449",
+                "1682365014256170:1351548",
+                "1682365016586753:1351918"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "initialShadingGroup9",
+                        "v": "1682365015661047:1351694"
+                    },
+                    {
+                        "k": "male_casualsuit06",
+                        "v": "1682365014260605:1351551"
+                    }
+                ]
+            }
+        }
+    },
+    "1682365016685584:1351985": {
+        "IFileManager": {
+            "path": "Files/File_1682365016685584_1351985.fbx"
+        }
+    },
+    "1682365017152986:1352048": {
+        "IResourceController": {
+            "public": {
+                "path": "Models/Jeans/Jeans.fbx",
+                "hash": "53350815d97d9712f86735beb4ab9a1c"
+            }
+        }
+    }
+}
