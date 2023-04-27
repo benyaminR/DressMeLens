@@ -31,8 +31,8 @@
     "1682365017176966:1352053": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Models/Jeans/Jeans/Materials/male_casualsuit06.lsmat",
-                "hash": "8d2d208bd76f1810cd50954c1fdb4732"
+                "path": "../AdditionalFiles/Garments/Jeans/Jeans/Materials/male_casualsuit06.lsmat",
+                "hash": "22b829a70e65f96900ab917da47b5b25"
             }
         }
     }

@@ -47,7 +47,7 @@
     "1682365017152986:1352048": {
         "IResourceController": {
             "public": {
-                "path": "Models/Jeans/Jeans.fbx",
+                "path": "Garments/Jeans/Jeans.fbx",
                 "hash": "53350815d97d9712f86735beb4ab9a1c"
             }
         }

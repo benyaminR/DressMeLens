@@ -1,16 +1,13 @@
 {
     "1682357554020513:54165": {
         "IResourceController": {
-            "name": "Try On Pack - T Shirt",
+            "name": "Poloshirt Object",
             "type": 0,
             "subtype": -1,
             "dependency": 0,
             "hidden": false,
             "publicId": "1682357554021085:54166",
             "resources": [
-                "1682357554024836:54167",
-                "1682357558985137:55209",
-                "1682357560093247:55386",
                 "1682360267871876:592380",
                 "1682360700915155:662260",
                 "1682360701274713:662350",
@@ -21,7 +18,7 @@
     "1682357554021085:54166": {
         "IResourceController": {
             "public": {
-                "path": "Try On Pack - T Shirt"
+                "path": "Garments/Poloshirt Object"
             }
         }
     }

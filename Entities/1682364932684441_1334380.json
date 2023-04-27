@@ -15,7 +15,7 @@
     "1682364932684883:1334381": {
         "IResourceController": {
             "public": {
-                "path": "Models/Jeans"
+                "path": "Garments/Jeans"
             }
         }
     }

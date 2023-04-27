@@ -31,8 +31,8 @@
     "1682269894223510:90408": {
         "IResourceController": {
             "public": {
-                "path": "Models/Baseball Cap/Materials/cap_main_secondary.lsmat",
-                "hash": "2c310208b6b7aa7675cb882dac9416ca"
+                "path": "Garments/Baseball Cap/Materials/cap_main_secondary.lsmat",
+                "hash": "2152542458bf8aedee19b2bc5e411ff2"
             }
         }
     }

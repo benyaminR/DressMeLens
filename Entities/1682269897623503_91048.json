@@ -107,7 +107,7 @@
     "1682269897693712:91064": {
         "IResourceController": {
             "public": {
-                "path": "Models/Baseball Cap/Meshes/cap_shadow.mesh",
+                "path": "Garments/Baseball Cap/Meshes/cap_shadow.mesh",
                 "hash": "4d196be6c739db5b4955f7d7bc598a42"
             }
         }

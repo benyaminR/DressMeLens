@@ -107,7 +107,7 @@
     "1682183513147179:539179": {
         "IResourceController": {
             "public": {
-                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Meshes/cap_main.mesh",
+                "path": "Garments/Baseball Cap Object/Baseball Cap Resources/Meshes/cap_main.mesh",
                 "hash": "67c12d4bbccc5d021d5c7fc0b1f8453e"
             }
         }

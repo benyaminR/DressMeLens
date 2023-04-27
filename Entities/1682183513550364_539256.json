@@ -35,7 +35,7 @@
     "1682183513576844:539268": {
         "IResourceController": {
             "public": {
-                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Textures/logo_opacity_mask.pvr",
+                "path": "Garments/Baseball Cap Object/Baseball Cap Resources/Textures/logo_opacity_mask.pvr",
                 "hash": "61540fd3eeca6c44264268ccf2c2e8d6"
             }
         }

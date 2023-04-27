@@ -19,7 +19,7 @@
     "1682269894221807:90407": {
         "IResourceController": {
             "public": {
-                "path": "Models/Baseball Cap/Materials"
+                "path": "Garments/Baseball Cap/Materials"
             }
         }
     }

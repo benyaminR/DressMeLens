@@ -59,7 +59,7 @@
     "1682269897002504:90941": {
         "IResourceController": {
             "public": {
-                "path": "Models/Baseball Cap/Textures/cap_diff.jpg",
+                "path": "Garments/Baseball Cap/Textures/cap_diff.jpg",
                 "hash": "deb5a8e364154e3595d0ff2ad24ccb7c"
             }
         }

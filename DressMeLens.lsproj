@@ -151,7 +151,7 @@
             "preview_images_project_config": {
                 "back_preview_id": "bundle:Preview\/Images\/Skeletal.jpg",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
                 "front_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {

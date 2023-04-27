@@ -31,8 +31,8 @@
     "1682183515143964:539378": {
         "IResourceController": {
             "public": {
-                "path": "Example Objects [DELETE_ME]/Baseball Cap Object/Baseball Cap Resources/Materials/cap_main_secondary.lsmat",
-                "hash": "76cd818f84682bc2e1ee06f463c547b3"
+                "path": "Garments/Baseball Cap Object/Baseball Cap Resources/Materials/cap_main_secondary.lsmat",
+                "hash": "e8add33b0ae9dc82bbaa404edf307c0a"
             }
         }
     }
