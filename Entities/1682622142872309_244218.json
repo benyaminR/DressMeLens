@@ -1,0 +1,39 @@
+{
+    "1682622142869266:244217": {
+        "IFileManager": {
+            "path": "Files/File_1682622142869266_244217"
+        }
+    },
+    "1682622142872309:244218": {
+        "IResourceController": {
+            "name": "polo_shirt 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682622142872315:244219",
+            "fileId": "1682622142869266:244217",
+            "originalId": "1682622142934466:244234",
+            "publicId": "1682622143975445:244428",
+            "expected_hash": "b7dfd3b59ea9330b2e5f3389f5da7802"
+        },
+        "IResourceManager": {
+            "uid": "1682622142872315:244219",
+            "name": "Files/File_1682622142869266_244217",
+            "flags": 1
+        }
+    },
+    "1682622142934466:244234": {
+        "IFileManager": {
+            "path": "Files/File_1682622142934466_244234.lsmat"
+        }
+    },
+    "1682622143975445:244428": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/polo_shirt 2.lsmat",
+                "hash": "3c02abf0614dd46b9f4d12030cbdb111"
+            }
+        }
+    }
+}

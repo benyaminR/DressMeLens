@@ -64,7 +64,32 @@
             "additional": {
                 "externalBodyLink": [
                     "1675108673688978:2007"
-                ]
+                ],
+                "info": {
+                    "hasBlendShapes": "true",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
             }
         },
         "IResourceManager": {

@@ -1,7 +1,7 @@
 {
     "1682532887650610:180797": {
         "IFileManager": {
-            "path": "Files/File_1682532887650610_180797.jpg"
+            "path": "Files/File_1682532887650610_180797.pvr"
         }
     },
     "1682532887664927:180804": {
@@ -15,7 +15,7 @@
             "fileId": "1682532887650610:180797",
             "originalId": "1682532887666266:180810",
             "publicId": "1682532887762351:180814",
-            "expected_hash": "083195adcad88628fbad3aaa2cb3a6e3",
+            "expected_hash": "13dd7adb20ccfffc6ba7c1f3a47d3376",
             "additional": {
                 "originHash": "b155aa08f51d42d2106b3321c567172e"
             }
@@ -28,18 +28,26 @@
     },
     "1682532887665582:180805": {
         "Compression::IController": {
-            "compressed_files": "",
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "083195adcad88628fbad3aaa2cb3a6e3"
+                    },
+                    "v": "1682665340904952:63828"
+                }
+            ],
             "infos": {
-                "compressedRAM": "12582912",
-                "compressedSize": "437308",
+                "compressedRAM": "1572864",
+                "compressedSize": "1232302",
                 "extension": "jpg",
                 "originalRAM": "12582912",
                 "originalSize": "437308",
                 "settings": {
-                    "isCompressed": "false",
-                    "level": "0",
+                    "isCompressed": "true",
+                    "level": "1",
                     "subtype": "9",
-                    "type": "0"
+                    "type": "1"
                 }
             },
             "uncompressed_file": "1682532887720230:180813"
@@ -61,6 +69,11 @@
                 "path": "Backgrounds/Coffeshop.jpg",
                 "hash": "b155aa08f51d42d2106b3321c567172e"
             }
+        }
+    },
+    "1682665340904952:63828": {
+        "IFileManager": {
+            "path": "Files/File_1682665340904952_63828.pvr"
         }
     }
 }

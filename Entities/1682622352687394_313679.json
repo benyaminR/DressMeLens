@@ -1,0 +1,39 @@
+{
+    "1682622352683916:313676": {
+        "IFileManager": {
+            "path": "Files/File_1682622352683916_313676"
+        }
+    },
+    "1682622352687394:313679": {
+        "IResourceController": {
+            "name": "sweatshrirt",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682622352687402:313680",
+            "fileId": "1682622352683916:313676",
+            "originalId": "1682622352749633:313684",
+            "publicId": "1682622353132012:313691",
+            "expected_hash": "975815891b55e12a43f3a8051811f25a"
+        },
+        "IResourceManager": {
+            "uid": "1682622352687402:313680",
+            "name": "Files/File_1682622352683916_313676",
+            "flags": 1
+        }
+    },
+    "1682622352749633:313684": {
+        "IFileManager": {
+            "path": "Files/File_1682622352749633_313684.lsmat"
+        }
+    },
+    "1682622353132012:313691": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/sweatshrirt.lsmat",
+                "hash": "023717bc1057de8f356e2f742b9fafef"
+            }
+        }
+    }
+}

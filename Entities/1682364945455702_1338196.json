@@ -14,7 +14,7 @@
             "uid": "1682364945457241:1338197",
             "fileId": "1682364945443325:1338189",
             "originalId": "1682364945458668:1338202",
-            "publicId": "1682365017158548:1352050",
+            "publicId": "1682623955288354:617020",
             "expected_hash": "70cc8bafdcc7621f8e8df7b80fd9a9fc",
             "additional": {
                 "originHash": "70cc8bafdcc7621f8e8df7b80fd9a9fc"
@@ -55,10 +55,10 @@
             "path": "Files/File_1682364945560150_1338205.png"
         }
     },
-    "1682365017158548:1352050": {
+    "1682623955288354:617020": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Garments/Jeans/Jeans/Textures/Normal.png",
+                "path": "../AdditionalFiles/Garments/Jeans/Jeans-Fitted/Textures/Normal.png",
                 "hash": "70cc8bafdcc7621f8e8df7b80fd9a9fc"
             }
         }

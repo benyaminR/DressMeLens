@@ -1,7 +1,7 @@
 {
     "1682183517743262:539628": {
         "IFileManager": {
-            "path": "Files/File_1682183517743262_539628.jpeg"
+            "path": "Files/File_1682183517743262_539628.pvr"
         }
     },
     "1682183517747289:539629": {
@@ -15,7 +15,7 @@
             "fileId": "1682183517743262:539628",
             "originalId": "1682183517747983:539635",
             "publicId": "1682183517797639:539648",
-            "expected_hash": "0ab1187ca732ed723d2e302f88f072f0",
+            "expected_hash": "c77e0d69051b184e413e9a949608e05b",
             "additional": {
                 "originHash": "0ab1187ca732ed723d2e302f88f072f0",
                 "subtype": "9"
@@ -29,18 +29,26 @@
     },
     "1682183517747501:539630": {
         "Compression::IController": {
-            "compressed_files": "",
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "0ab1187ca732ed723d2e302f88f072f0"
+                    },
+                    "v": "1682665460194148:89928"
+                }
+            ],
             "infos": {
-                "compressedRAM": "697303",
-                "compressedSize": "39423",
+                "compressedRAM": "87162",
+                "compressedSize": "60025",
                 "extension": "jpeg",
                 "originalRAM": "697303",
                 "originalSize": "39423",
                 "settings": {
-                    "isCompressed": "false",
-                    "level": "0",
+                    "isCompressed": "true",
+                    "level": "1",
                     "subtype": "9",
-                    "type": "0"
+                    "type": "1"
                 }
             },
             "uncompressed_file": "1682183517773750:539647"
@@ -62,6 +70,11 @@
                 "path": "Default Textures/Echopark/Specular.jpeg",
                 "hash": "0ab1187ca732ed723d2e302f88f072f0"
             }
+        }
+    },
+    "1682665460194148:89928": {
+        "IFileManager": {
+            "path": "Files/File_1682665460194148_89928.pvr"
         }
     }
 }

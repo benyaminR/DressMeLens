@@ -14,7 +14,7 @@
             "uid": "1682364942729244:1335390",
             "fileId": "1682364942712038:1335382",
             "originalId": "1682364942732453:1335395",
-            "publicId": "1682365017163764:1352051",
+            "publicId": "1682623955293902:617021",
             "expected_hash": "f4ad2c9569c3a56f6eb460c54d15131b",
             "additional": {
                 "originHash": "a28db715a1ad84fecee1a7c5b85c28be"
@@ -68,10 +68,10 @@
             "path": "Files/File_1682365004131068_1348070.pvr"
         }
     },
-    "1682365017163764:1352051": {
+    "1682623955293902:617021": {
         "IResourceController": {
             "public": {
-                "path": "../AdditionalFiles/Garments/Jeans/Jeans/Textures/BaseColor.png",
+                "path": "../AdditionalFiles/Garments/Jeans/Jeans-Fitted/Textures/BaseColor.png",
                 "hash": "a28db715a1ad84fecee1a7c5b85c28be"
             }
         }

@@ -1,0 +1,50 @@
+{
+    "1682623950242791:616061": {
+        "IResourceController": {
+            "name": "Jeans-Fitted",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682623955003540:616967",
+            "publicId": "1682623955285266:617018",
+            "expected_hash": "8bd0be52b9b73c89da13e9a10a1dd82a",
+            "resources": [
+                "1682623952890733:616514",
+                "1682623952957318:616539",
+                "1682623954919761:616921"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "male_casualsuit06",
+                        "v": "1682623953643249:616655"
+                    }
+                ]
+            }
+        }
+    },
+    "1682623955003540:616967": {
+        "IFileManager": {
+            "path": "Files/File_1682623955003540_616967.fbx"
+        }
+    },
+    "1682623955285266:617018": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Jeans/Jeans-Fitted.fbx",
+                "hash": "8bd0be52b9b73c89da13e9a10a1dd82a"
+            }
+        }
+    }
+}

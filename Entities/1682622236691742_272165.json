@@ -1,0 +1,39 @@
+{
+    "1682622236688248:272162": {
+        "IFileManager": {
+            "path": "Files/File_1682622236688248_272162"
+        }
+    },
+    "1682622236691742:272165": {
+        "IResourceController": {
+            "name": "jeans",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682622236691748:272166",
+            "fileId": "1682622236688248:272162",
+            "originalId": "1682622236754419:272170",
+            "publicId": "1682622237128774:272177",
+            "expected_hash": "b7dfd3b59ea9330b2e5f3389f5da7802"
+        },
+        "IResourceManager": {
+            "uid": "1682622236691748:272166",
+            "name": "Files/File_1682622236688248_272162",
+            "flags": 1
+        }
+    },
+    "1682622236754419:272170": {
+        "IFileManager": {
+            "path": "Files/File_1682622236754419_272170.lsmat"
+        }
+    },
+    "1682622237128774:272177": {
+        "IResourceController": {
+            "public": {
+                "path": "Garments/Materials/jeans.lsmat",
+                "hash": "ce47f67201b037b5ac402158cede311b"
+            }
+        }
+    }
+}

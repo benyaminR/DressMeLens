@@ -1,7 +1,7 @@
 {
     "1682533121911402:258783": {
         "IFileManager": {
-            "path": "Files/File_1682533121911402_258783.jpg"
+            "path": "Files/File_1682533121911402_258783.pvr"
         }
     },
     "1682533121939573:258784": {
@@ -15,7 +15,7 @@
             "fileId": "1682533121911402:258783",
             "originalId": "1682533121941043:258790",
             "publicId": "1682533122051936:258804",
-            "expected_hash": "e51a0f962c51402e0feb70f24403382e",
+            "expected_hash": "0329eecfc273facdf34e98dfbec3ef7e",
             "additional": {
                 "originHash": "178876005df003e573072f04817dd033"
             }
@@ -28,18 +28,26 @@
     },
     "1682533121940291:258785": {
         "Compression::IController": {
-            "compressed_files": "",
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "e51a0f962c51402e0feb70f24403382e"
+                    },
+                    "v": "1682665363691899:70847"
+                }
+            ],
             "infos": {
-                "compressedRAM": "11182080",
-                "compressedSize": "400739",
+                "compressedRAM": "1400832",
+                "compressedSize": "1036623",
                 "extension": "jpg",
                 "originalRAM": "11182080",
                 "originalSize": "400739",
                 "settings": {
-                    "isCompressed": "false",
-                    "level": "0",
+                    "isCompressed": "true",
+                    "level": "1",
                     "subtype": "9",
-                    "type": "0"
+                    "type": "1"
                 }
             },
             "uncompressed_file": "1682533121992342:258799"
@@ -61,6 +69,11 @@
                 "path": "Backgrounds/Wedding.jpg",
                 "hash": "178876005df003e573072f04817dd033"
             }
+        }
+    },
+    "1682665363691899:70847": {
+        "IFileManager": {
+            "path": "Files/File_1682665363691899_70847.pvr"
         }
     }
 }
